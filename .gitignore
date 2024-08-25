@@ -26,6 +26,7 @@ replay_pid*
 # Custom
 build/
 .gradle/
+/out/
 
 .idea/*.iml
 .idea/modules/
